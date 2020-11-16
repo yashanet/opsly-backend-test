@@ -1,3 +1,16 @@
+# DEMO
+
+## Project setup
+```
+mvn clean install
+```
+
+### Run locally
+```
+mvn spring-boot:run
+```
+
+
 ## Your mission:
 
 A client needs to know what is happening on the social networks. All of them. Right now.
